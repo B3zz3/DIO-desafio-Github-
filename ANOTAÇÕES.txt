@@ -4,4 +4,4 @@ Git add . (adicionar todos os arquivos)
 
 Git commit -m "MSG" (MSG de envio para o repositorio)
 
-Git push main  ( enviar arquivo para repositorio )
+Git push origin main  ( enviar arquivo para repositorio )
